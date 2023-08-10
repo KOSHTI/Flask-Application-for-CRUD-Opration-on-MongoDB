@@ -30,8 +30,8 @@ Create two files; **app.py** and **Dockerfile**
 ### 7. Test application in Postman
 
 **API Endpoints**
-### I.  **GET /users:** Retrieve a list of all items.
-### II. **GET /users/{id}:** Retrieve details of a specific item by ID.
-### III.**POST /users:** Create a new item.
-### IV. **PUT /users/{id}:** Update an existing item by ID.
-### V.  **DELETE /users/{id}:** Delete an item by ID.
+I.  **GET /users:** Retrieve a list of all items.
+II. **GET /users/{id}:** Retrieve details of a specific item by ID.
+III.**POST /users:** Create a new item.
+IV. **PUT /users/{id}:** Update an existing item by ID.
+V.  **DELETE /users/{id}:** Delete an item by ID.
